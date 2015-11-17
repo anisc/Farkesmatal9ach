@@ -36,7 +36,7 @@ public class MenuButton extends ColorButton {
         icon.setScale(0.8f, 0.8f);
         icon.setOriginCenter();
 
-        getBackSprite().setColor(FlatColors.DARK_WHITE);
+        getBackSprite().setColor(Color.CLEAR);
         this.color = color;
         type = type;
 

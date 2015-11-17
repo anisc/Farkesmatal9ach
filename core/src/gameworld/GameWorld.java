@@ -75,7 +75,7 @@ public class GameWorld {
 
         background = new Background(world, 0, 0, gameWidth, gameHeight, AssetLoader.square);
         topWLayer = new Background(world, 0, 0, gameWidth, gameHeight, AssetLoader.square);
-        topWLayer.fadeOut(.6f, 0f);
+        topWLayer.fadeOut(.6f, 1f);
         setUpBoard();
         setUpCurrentColorBanner();
         setUpInfoBanner();

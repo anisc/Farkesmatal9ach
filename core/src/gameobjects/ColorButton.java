@@ -1,8 +1,6 @@
 package gameobjects;
 
-import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
@@ -81,7 +79,6 @@ dot = AssetLoader.dot;
         backSprite.setAlpha(1);
         backSprite.setOriginCenter();
         buttonState = ButtonState.IDLE;
-
 
         //TWEEN CALLBACKS
         cbClickCorrect = new TweenCallback() {
@@ -218,7 +215,7 @@ dot = AssetLoader.dot;
                 color = world.parseColor(Configuration.COLOR_BUTTON_4, 1f);
                 break;
         }
-        setColor(color);
+        //setColor(color);
     }
 
     public void setType(int typ) {

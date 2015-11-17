@@ -1,6 +1,7 @@
 package menuworld;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
@@ -90,35 +91,35 @@ public class MenuWorld extends GameWorld {
         topWLayer = new Background(world, 0, 0, gameWidth, gameHeight, AssetLoader.square);
         topWLayer.fadeOut(.6f, 0f);
 
-        playButton = new MenuButton(this, gameWidth / 2 - 75 - (Configuration.BUTTON_SIZE * 2),
-                gameHeight / 2 - 250 - Configuration.BUTTON_SIZE - 20,
-                Configuration.BUTTON_SIZE,
-                Configuration.BUTTON_SIZE + 10, AssetLoader.colorButton,
-                world.parseColor(Configuration.COLOR_PLAY_BUTTON, 0f), AssetLoader.playButtonUp, 0);
-        leaderboardButton = new MenuButton(this, gameWidth / 2 - Configuration.BUTTON_SIZE - 25,
-                gameHeight / 2 - 250 - Configuration.BUTTON_SIZE - 20, Configuration.BUTTON_SIZE,
-                Configuration.BUTTON_SIZE + 10, AssetLoader.colorButton,
-                world.parseColor(Configuration.COLOR_LEADERBOARD_BUTTON, 0f),
+        playButton = new MenuButton(this, gameWidth / 2 - 150-(Configuration.BUTTON_SIZE / 2),
+                gameHeight / 2 + 100 - Configuration.BUTTON_SIZE - 70 - Configuration.BUTTON_SIZE,
+                Configuration.BUTTON_SIZE4,
+                Configuration.BUTTON_SIZE4 + 10, AssetLoader.colorButton,
+                world.parseColor(Configuration.COLOR_PLAY_BUTTON, 1f), AssetLoader.playButtonUp, 0);
+        leaderboardButton = new MenuButton(this, gameWidth / 2 - Configuration.BUTTON_SIZE - 55,
+                gameHeight / 2 + 400 - Configuration.BUTTON_SIZE - 20, Configuration.BUTTON_SIZE3,
+                Configuration.BUTTON_SIZE3 + 10, AssetLoader.colorButton,
+                world.parseColor(Configuration.COLOR_LEADERBOARD_BUTTON, 1f),
                 AssetLoader.rankButtonUp, 1);
 
-        shareButton = new MenuButton(this, gameWidth / 2 + 25,
-                gameHeight / 2 - 250 - Configuration.BUTTON_SIZE - 20, Configuration.BUTTON_SIZE,
-                Configuration.BUTTON_SIZE + 10, AssetLoader.colorButton,
-                world.parseColor(Configuration.COLOR_SHARE_BUTTON, 0f), AssetLoader.shareButtonUp,
+        shareButton = new MenuButton(this, gameWidth / 2 -30,
+                gameHeight / 2 + 300 - Configuration.BUTTON_SIZE , Configuration.BUTTON_SIZE1,
+                Configuration.BUTTON_SIZE1 + 10, AssetLoader.colorButton,
+                world.parseColor(Configuration.COLOR_SHARE_BUTTON, 1f), AssetLoader.shareButtonUp,
                 1);
 
-        achievementsButton = new MenuButton(this, gameWidth / 2 + 75 + Configuration.BUTTON_SIZE,
-                gameHeight / 2 - 250 - Configuration.BUTTON_SIZE - 20,
-                Configuration.BUTTON_SIZE,
-                Configuration.BUTTON_SIZE + 10, AssetLoader.colorButton,
-                world.parseColor(Configuration.COLOR_ACHIEVEMENTS_BUTTON, 0f),
+        achievementsButton = new MenuButton(this, gameWidth / 2 + 120 + Configuration.BUTTON_SIZE,
+                gameHeight / 2 + 490 - Configuration.BUTTON_SIZE - 20,
+                Configuration.BUTTON_SIZE2,
+                Configuration.BUTTON_SIZE2 + 10, AssetLoader.colorButton,
+                world.parseColor(Configuration.COLOR_ACHIEVEMENTS_BUTTON, 1f),
                 AssetLoader.achieveButtonUp, 1);
 
-        adsButton = new MenuButton(this, gameWidth / 2 - (Configuration.BUTTON_SIZE / 2),
-                gameHeight / 2 - 250 - Configuration.BUTTON_SIZE - 70 - Configuration.BUTTON_SIZE,
+        adsButton = new MenuButton(this, gameWidth / 2 - 95 - (Configuration.BUTTON_SIZE * 2),
+                gameHeight / 2 + 250 - Configuration.BUTTON_SIZE - 20,
                 Configuration.BUTTON_SIZE,
                 Configuration.BUTTON_SIZE + 10, AssetLoader.colorButton,
-                world.parseColor(Configuration.COLOR_ADS_BUTTON, 0f), AssetLoader.adsUp, 1);
+                world.parseColor(Configuration.COLOR_ADS_BUTTON, 1f), AssetLoader.adsUp, 1);
 
         menubuttons.add(playButton);
         menubuttons.add(leaderboardButton);
@@ -126,9 +127,9 @@ public class MenuWorld extends GameWorld {
         menubuttons.add(achievementsButton);
         menubuttons.add(adsButton);
 
-        title = new Text(this, 40, gameHeight / 2 + 250, gameWidth - 80, 250,
-                AssetLoader.titleBanner, FlatColors.DARK_BLACK, Configuration.GAME_NAME,
-                AssetLoader.font, FlatColors.WHITE, 60, BitmapFont.HAlignment.CENTER);
+        title = new Text(this, 40, gameHeight / 2 + 600, gameWidth - 80, 250,
+                AssetLoader.titleBanner, Color.CLEAR, Configuration.GAME_NAME,
+                AssetLoader.font, FlatColors.DARK_GREEN, 60, BitmapFont.HAlignment.CENTER);
 
         if (points != 0) {
             setUpTexts(-40);
@@ -174,9 +175,9 @@ public class MenuWorld extends GameWorld {
             actionResolver.viewAd(false);
         }
 
-        backgroundBanner = new GameObject(world, -100, gameHeight / 2 - (360 / 2) - 10,
-                gameWidth + 200,
-                360, AssetLoader.highscoreBanner, FlatColors.BLACK);
+        backgroundBanner = new GameObject(world, 0, gameHeight / 2 - (1380/2)-10,
+                gameWidth ,
+                360, AssetLoader.highscoreBanner, FlatColors.DARK_ORANGE);
 
         circleSprite = new Sprite(AssetLoader.dot);
         circleSprite.setSize(gameWidth + 400, gameWidth + 400);
@@ -187,36 +188,36 @@ public class MenuWorld extends GameWorld {
 
     private void setUpTexts(int offset) {
 
-        scoreT = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        scoreT = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.PURPLE, Configuration.SCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 0, BitmapFont.HAlignment.LEFT);
 
-        scoreNumber = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        scoreNumber = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.HIGHSCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 0, BitmapFont.HAlignment.RIGHT);
 
-        highscore = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        highscore = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.PURPLE, Configuration.HIGHSCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 40 - offset, BitmapFont.HAlignment.LEFT);
 
-        highscoreNumber = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        highscoreNumber = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.HIGHSCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 40 - offset, BitmapFont.HAlignment.RIGHT);
 
-        gamesplayed = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        gamesplayed = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.GAMESPLAYED_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 120 - offset, BitmapFont.HAlignment.LEFT);
 
-        gamesplayedNumber = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        gamesplayedNumber = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.HIGHSCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 120 - offset,
                 BitmapFont.HAlignment.RIGHT);
 
-        buttonsclicked = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        buttonsclicked = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.BUTTONSCLICKED_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 200 - offset, BitmapFont.HAlignment.LEFT);
 
-        buttonsclickedNumber = new Text(this, 100, gameHeight / 2 - (320 / 2), gameWidth - 200, 320,
+        buttonsclickedNumber = new Text(this, 100, gameHeight / 2 - (1380 / 2), gameWidth - 200, 320,
                 AssetLoader.transparent, FlatColors.WHITE, Configuration.HIGHSCORE_TEXT,
                 AssetLoader.fontS, FlatColors.WHITE, 200 - offset,
                 BitmapFont.HAlignment.RIGHT);

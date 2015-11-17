@@ -61,7 +61,7 @@ public class Board extends GameObject {
                 colorButtons.add(new ColorButton(world,
                         (j * buttonSize) + (spaceBetweenCandys * j) + getRectangle().x + (spaceBetweenCandys),
                         getRectangle().y + (i * buttonSize) + (spaceBetweenCandys * i) + (spaceBetweenCandys),
-                        buttonSize, buttonSize + 10, AssetLoader.colorButton, Color.BLACK));
+                        buttonSize, buttonSize + 10, AssetLoader.colorButton, Color.WHITE));
 
             }
         }

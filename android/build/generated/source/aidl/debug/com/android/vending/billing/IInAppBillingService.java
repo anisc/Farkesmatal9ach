@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/Tallhorse/Desktop/fast-tap/BFP/android/src/com/android/vending/billing/IInAppBillingService.aidl
+ * Original file: /Users/Tallhorse/Desktop/CandyTap/AC/android/src/com/android/vending/billing/IInAppBillingService.aidl
  */
 package com.android.vending.billing;
 /**

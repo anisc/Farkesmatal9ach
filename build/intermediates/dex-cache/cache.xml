@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/BFP/BaseGameUtils/1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9539393df1e557ceaafefcd8c5db2a632621a8f2">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-ee6d75861eabd0b97032962961a893378095c60f.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-4575feb0074a42e132bf2c7044289be04ae6a6db.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-2c1af34e395a55d237ecbff16794a5c5fd041784.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-18e4b48d4969621b4936177be3bfd716f991c96f.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-8e503d3720318d2b57ffd32d17cc5f1720709646.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-947c00e06e0ade9e11e19aab0842e61c0b20eaee.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.4/7b974b501dc92361698a1f6251f9e7b308582c08/gdx-backend-android-1.5.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7b974b501dc92361698a1f6251f9e7b308582c08">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.4-4d8b602c3126d7b50f807ddfa57b572fb9c5c5c6.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-3efa6f730cb15d8c24ed7a61501ba3379dd65700.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-8a7f884b937089c86f6856e133d34c4573a722f9.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-66ec46b36533e294325ca26381da19be292ea875.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-cf981d6cd7d053f086fb08bfe5cac514fdda667a.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-6df6adabd6b3cd43f32e82255c1770807486c68b.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-50f1acb910cba78711d87914fcc893d5bebd8877.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-3b4e445cddd9258bc2275254cc47350ecefd7662.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-74cffac6515ddc52d7083ae598bc81eb99ebfa87.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-de8ee38cb4dfb094cc17decf9434ee5ecd01881d.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-a94e2e54720455667923593991c20413b04637c0.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-220c06b2fb48c93432a2b1e965d92e8752f4f314.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-e6bcf663e97c34e6c1658f030c221261d9221347.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/core/build/libs/core-1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0a0f48d44268359f9b3dbfde9b3befe9a5413159">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/core-1.0-f9e0b170e545de1ff3b96c3972b99dceb35ddc1c.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-f3724e227fc466b531c9e18fabb5781d0cb751ff.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-735846e49cd989a7b9aeb0fce5121bb6369427ee.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-698eaeecb48b168a13016c355014605ebed81e30.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-2e18b442724a53c0194d3cc88e03f65de0515b8e.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-476a0b2b9cdd8401bf7dea37cdffbb1dce1bacc2.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/libs/tween-engine-api-sources.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/tween-engine-api-sources-78ae71fc3997a60ed22cf21e478b22b23afcd7b9.jar" />
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-99e61769a433ba88c419b3de74881ba75867c6f2.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-a4b2ee262afc2a34cb247fbb2dc681a80b378eef.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-2d521499af40a88279f87951659f1292d146e0b9.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1b5d5f8d8268614a92040d2c4039336f0ad62cfd.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-a7b0f46bfe46483f88cf5f5bf70d7e623cb02f8d.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-564cb5af51bdb8ce81e0684161bef7b1535b371c.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-b6c743fb37c73fcca8a88911917ee0ec0b454f4a.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-bc20807f272eee608584c4a701347b395a9af34a.jar" />
     </item>
     <item
         jar="/Users/Tallhorse/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-d3b7cdce80f9a2ba23d4ec3077e816aa93698852.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/support-annotations-22.0.0-d3b7cdce80f9a2ba23d4ec3077e816aa93698852.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/libs/tween-engine-api.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/tween-engine-api-4b6926441aa5c335105c36bbe9f291dd70f2bbed.jar" />
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-977a162ecce69ca0e5a28e8e95d174cfd1a6c686.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-027f7c861045c0c4551057bd4089a42e302f67b2.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/internal_impl-22.0.0-995e39624e91e6f960fefd1ce39783aeb13adb69.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/AC/BaseGameUtils/1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-e6c8ff647bed9c8c91de68b4aad4f0e082824b11.jar" />
+        sha1="c75814b6277c8e3c4ad4b63e2f373cf20d0d452c">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-75a692278551488ed4f4bf4895e8df5a09c32b84.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/libs/tween-engine-api-sources.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-eb2c439ffab45f218c8dcbcbe71e07655d63a760.jar" />
+        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/tween-engine-api-sources-aa85ea4ef7deaad8bbc41c322fc97b580a33640a.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-9c747bcc39c128de8c8ff730c3f808d46868d97a.jar" />
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-b04be0a05642bd17488142671493c7d167746762.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/classes-50729f7144ead2ad40294552b5c5e0859eafcac1.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-21ab53eafb079ce0593830d45de790fb12b031ef.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1ff496e35fe81569ded89baec34d63dd08626ec7.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.4/7b974b501dc92361698a1f6251f9e7b308582c08/gdx-backend-android-1.5.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b974b501dc92361698a1f6251f9e7b308582c08">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.4-4d8b602c3126d7b50f807ddfa57b572fb9c5c5c6.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-9cb68c030fafcb33b42700a4128e0dbcc77c0340.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/libs/tween-engine-api.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/tween-engine-api-a63d5c5555cc196af94565c8e91f553753e59968.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-38feb66f12d4cf166ceab68f9cc5462a812e0658.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1f7663d3c01ddf9c92554649e778693871ae1731.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-8044aff4c7d7ff23a4f862866f2878223cf59ee2.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="90fdffd430aa66fb0165a7a36da8b276fab299f8">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/core-1.0-603fac485b01b36cc5386df0935aea08cd2e3c01.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-c4b01d0c627052d35c7cfb3b8f8bf70b47819b67.jar" />
+    </item>
+    <item
+        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-da1702a796e0e076d16815a58aa824a5696ea853.jar" />
     </item>
     <item
         jar="/Users/Tallhorse/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.4/c16e1a0088ae7f0cac4a8d6595be32432e6069f4/gdx-1.5.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="c16e1a0088ae7f0cac4a8d6595be32432e6069f4">
-        <dex dex="/Users/Tallhorse/Desktop/fast-tap/BFP/android/build/intermediates/pre-dexed/debug/gdx-1.5.4-8b5fa5cf1d3a2619989c87484df8fef1464faf28.jar" />
+        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/gdx-1.5.4-8b5fa5cf1d3a2619989c87484df8fef1464faf28.jar" />
     </item>
 
 </items>

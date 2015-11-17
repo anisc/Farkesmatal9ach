@@ -1,9 +1,12 @@
 package gameobjects;
 
+import com.badlogic.gdx.graphics.Color;
+import com.badlogic.gdx.graphics.Colors;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
 import configuration.Configuration;
 import gameworld.GameWorld;
+import helpers.AssetLoader;
 
 /**
  * Created by ManuGil on 10/03/15.
@@ -11,7 +14,7 @@ import gameworld.GameWorld;
 public class Background extends GameObject {
     public Background(GameWorld world, float x, float y, float width, float height,
                       TextureRegion texture) {
-        super(world, x, y, width, height, texture,
-                world.parseColor(Configuration.COLOR_BACKGROUND_COLOR, 1f));
+        super(world, x, y, width, height,AssetLoader.background, world.parseColor(Configuration.COLOR_BACKGROUND_COLOR,1f)
+                );
     }
 }

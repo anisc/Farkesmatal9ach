@@ -19,9 +19,9 @@ public class AssetLoader {
 
     public static Texture logoTexture, dotT,dotT2,dotT3,dotT4,dotT5, colorButtonT, boardT, colorButton_pressedT,
             currentColorBannerT, currentColorIndicatorT, timeBannerT, buttonsT, highscoreBannerT,
-            titleBannerT;
+            titleBannerT, backgroundT;
     public static TextureRegion logo, square, dot,dot5,dot4,dot3,dot2, colorButton, board, colorButton_pressed, highscoreBanner,
-            currentColorBanner, currentColorIndicator, timeBanner, transparent, titleBanner;
+            currentColorBanner, currentColorIndicator, timeBanner, transparent, titleBanner, background;
    public static ArrayList<TextureRegion> button_up_sprites,button_down_sprites;
     //BUTTONS
     public static TextureRegion playButtonUp, rankButtonUp, shareButtonUp, achieveButtonUp,
@@ -98,12 +98,12 @@ public static TextureRegion getTextureRegion(String fileName){
         board = new TextureRegion(boardT, 0, 0, boardT.getWidth(),
                 boardT.getHeight());
 
-        colorButtonT = new Texture(Gdx.files.internal("colorButton5.png"));
+        colorButtonT = new Texture(Gdx.files.internal("colorButton4.png"));
         colorButtonT.setFilter(TextureFilter.Linear, TextureFilter.Linear);
         colorButton = new TextureRegion(colorButtonT, 0, 0, colorButtonT.getWidth(),
                 colorButtonT.getHeight());
 
-        colorButton_pressedT = new Texture(Gdx.files.internal("colorButton_pressed5.png"));
+        colorButton_pressedT = new Texture(Gdx.files.internal("colorButton_pressed4.png"));
         colorButton_pressedT.setFilter(TextureFilter.Linear, TextureFilter.Linear);
         colorButton_pressed = new TextureRegion(colorButton_pressedT, 0, 0,
                 colorButton_pressedT.getWidth(),
@@ -139,6 +139,12 @@ public static TextureRegion getTextureRegion(String fileName){
                 titleBannerT.getWidth(),
                 titleBannerT.getHeight());
 
+        backgroundT = new Texture(Gdx.files.internal("background.png"));
+        backgroundT.setFilter(TextureFilter.Linear, TextureFilter.Linear);
+        background = new TextureRegion(backgroundT, 0, 0,
+                backgroundT.getWidth(),
+                backgroundT.getHeight());
+
 
         buttonsT = new Texture(Gdx.files.internal("buttons.png"));
         buttonsT.setFilter(TextureFilter.Linear, TextureFilter.Linear);
@@ -152,26 +158,30 @@ public static TextureRegion getTextureRegion(String fileName){
         rateButtonUp = new TextureRegion(buttonsT, 480, 0, 240, 240);
 
         //LOADING FONT
-        Texture tfont = new Texture(Gdx.files.internal("sans.png"), true);
+        Texture tfont = new Texture(Gdx.files.internal("sans0.png"), true);
         tfont.setFilter(TextureFilter.MipMapLinearLinear, TextureFilter.Linear);
 
-        font = new BitmapFont(Gdx.files.internal("sans.fnt"),
+        font = new BitmapFont(Gdx.files.internal("sans0.fnt"),
                 new TextureRegion(tfont), true);
         font.setScale(1.9f, -1.9f);
         font.setColor(FlatColors.WHITE);
 
+        Texture tfont1 = new Texture(Gdx.files.internal("sans.png"), true);
+        tfont1.setFilter(TextureFilter.MipMapLinearLinear, TextureFilter.Linear);
+
+
         fontB = new BitmapFont(Gdx.files.internal("sans.fnt"),
-                new TextureRegion(tfont), true);
+                new TextureRegion(tfont1), true);
         fontB.setScale(1.4f, -1.4f);
         fontB.setColor(FlatColors.WHITE);
 
         fontS = new BitmapFont(Gdx.files.internal("sans.fnt"),
-                new TextureRegion(tfont), true);
+                new TextureRegion(tfont1), true);
         fontS.setScale(1.2f, -1.2f);
         fontS.setColor(FlatColors.WHITE);
 
         fontXS = new BitmapFont(Gdx.files.internal("sans.fnt"),
-                new TextureRegion(tfont), true);
+                new TextureRegion(tfont1), true);
         fontXS.setScale(0.9f, -0.9f);
         fontXS.setColor(FlatColors.WHITE);
 
