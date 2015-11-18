@@ -15,8 +15,13 @@ public class Configuration {
     public static final boolean SPLASHSCREEN = true;
 
     //ADMOB IDS
-    public static final String AD_UNIT_ID_BANNER = "ca-app-pub-7973299225387096/6341322368";
-    public static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-7973299225387096/3865533961";
+    //prod
+//    public static final String AD_UNIT_ID_BANNER = "ca-app-pub-7973299225387096/6341322368";
+//    public static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-7973299225387096/3865533961";
+// dev
+    public static final String AD_UNIT_ID_BANNER = "ca-app-pub-7973299225387090/6341322360";
+    public static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-7973299225387090/3865533960";
+
         public static float AD_FREQUENCY = .9f;
 
     //In App Purchases
@@ -72,7 +77,7 @@ public class Configuration {
     //GAMEPLAY VARIABLES
     public static final float HIGHEST_ADD_TIME = 2.2f;
     public static final float LOWEST_ADD_TIME = 1.6f;
-    public static final float START_TIMER = 9;
+    public static final float START_TIMER = 300;
     public static final int BUTTON_SIZE = 180;
     public static final int BUTTON_SIZE1 = 140;
     public static final int BUTTON_SIZE2 = 100;

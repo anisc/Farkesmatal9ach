@@ -2,214 +2,235 @@
 <items version="2" >
 
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-2c1af34e395a55d237ecbff16794a5c5fd041784.jar" />
+        revision="22.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-5307e74ec72dcc45653c24a174e2aa6b15fb1bd7.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-6df6adabd6b3cd43f32e82255c1770807486c68b.jar" />
+        revision="22.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-f92a09577b564398d05e9d85d41010371b6d322b.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-735846e49cd989a7b9aeb0fce5121bb6369427ee.jar" />
+        revision="22.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-e804d68b9547d98461b33c195d0cf9bf89ec44eb.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-476a0b2b9cdd8401bf7dea37cdffbb1dce1bacc2.jar" />
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-9cfdaf128fa0d7ae3506005e6848c3ff67591941.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-99e61769a433ba88c419b3de74881ba75867c6f2.jar" />
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ab96aea9fd870bdf4a623ed365cb40a30681ff31.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-a4b2ee262afc2a34cb247fbb2dc681a80b378eef.jar" />
+        revision="22.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-086a6d402db769912e00ab7ca191902b11463a64.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-2d521499af40a88279f87951659f1292d146e0b9.jar" />
+        revision="22.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-8388b5e22540f5b6d9a204510d1d2c78a2967723.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1b5d5f8d8268614a92040d2c4039336f0ad62cfd.jar" />
+        revision="22.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-7039bbe245b9faaed2ef79e410a6883d4bc11dd3.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\libs\tween-engine-api.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-a7b0f46bfe46483f88cf5f5bf70d7e623cb02f8d.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-564cb5af51bdb8ce81e0684161bef7b1535b371c.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-b6c743fb37c73fcca8a88911917ee0ec0b454f4a.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-bc20807f272eee608584c4a701347b395a9af34a.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/support-annotations-22.0.0-d3b7cdce80f9a2ba23d4ec3077e816aa93698852.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-977a162ecce69ca0e5a28e8e95d174cfd1a6c686.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/internal_impl-22.0.0-995e39624e91e6f960fefd1ce39783aeb13adb69.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/AC/BaseGameUtils/1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c75814b6277c8e3c4ad4b63e2f373cf20d0d452c">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-75a692278551488ed4f4bf4895e8df5a09c32b84.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/libs/tween-engine-api-sources.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/tween-engine-api-sources-aa85ea4ef7deaad8bbc41c322fc97b580a33640a.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-b04be0a05642bd17488142671493c7d167746762.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-21ab53eafb079ce0593830d45de790fb12b031ef.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1ff496e35fe81569ded89baec34d63dd08626ec7.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.4/7b974b501dc92361698a1f6251f9e7b308582c08/gdx-backend-android-1.5.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7b974b501dc92361698a1f6251f9e7b308582c08">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.4-4d8b602c3126d7b50f807ddfa57b572fb9c5c5c6.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-9cb68c030fafcb33b42700a4128e0dbcc77c0340.jar" />
-    </item>
-    <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/libs/tween-engine-api.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        revision="22.0.0"
         sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/tween-engine-api-a63d5c5555cc196af94565c8e91f553753e59968.jar" />
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\tween-engine-api-d514ac3e593c42c10a3a5106886b468ccc5e2fde.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-38feb66f12d4cf166ceab68f9cc5462a812e0658.jar" />
+        revision="22.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-e21029dd20a9edca9d10e6d4223dcbe78ffecbca.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\core\build\libs\core-1.0.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-1f7663d3c01ddf9c92554649e778693871ae1731.jar" />
+        revision="22.0.0"
+        sha1="0fb42ac7147792f2bee451c383cb75b95d3d712f">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\core-1.0-ea1a18cd931128990da070e1c7dd25de420f80cd.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\Farkesmatal9ach\BaseGameUtils\1.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-8044aff4c7d7ff23a4f862866f2878223cf59ee2.jar" />
+        revision="22.0.0"
+        sha1="a744fc86b85c6e59d0132ac31d2fd135e17b692b">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-eeecc12a1b9739b61ec2469d480f9a166758877d.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/core/build/libs/core-1.0.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="90fdffd430aa66fb0165a7a36da8b276fab299f8">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/core-1.0-603fac485b01b36cc5386df0935aea08cd2e3c01.jar" />
+        revision="22.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-23b0938fef3b5b304da20e6b195bb27d4d8ce5ff.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-c4b01d0c627052d35c7cfb3b8f8bf70b47819b67.jar" />
+        revision="22.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-fa3c77e4b21ba99e61e521bcce5ea4653efeea24.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="565a01f90f1529f73362707c4c185d0623a68782">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/classes-da1702a796e0e076d16815a58aa824a5696ea853.jar" />
+        revision="22.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-dec1dae00c22da800432c177ae0dbd87cc2c3a24.jar" />
     </item>
     <item
-        jar="/Users/Tallhorse/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.4/c16e1a0088ae7f0cac4a8d6595be32432e6069f4/gdx-1.5.4.jar"
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\classes.jar"
         jumboMode="false"
-        revision="21.1.2"
+        revision="22.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-f2926390cc98ce1166dfb9cbbfebae1adeb0aa5b.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-70b2db289d57abc13521b8703cee9cc1ad2b0d42.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-14ca8e43a15c2dcedd544f823ccc8767dffe41c9.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-5d83b31f151522eef1cb1f4f308f94b21d6640b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\xheo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.4\c16e1a0088ae7f0cac4a8d6595be32432e6069f4\gdx-1.5.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
         sha1="c16e1a0088ae7f0cac4a8d6595be32432e6069f4">
-        <dex dex="/Users/Tallhorse/Desktop/CandyTap/AC/android/build/intermediates/pre-dexed/release/gdx-1.5.4-8b5fa5cf1d3a2619989c87484df8fef1464faf28.jar" />
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\gdx-1.5.4-26a016a10f07529f48c544e2cf3a5a08248f2f1f.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-0e0860e4b9febb139d83e555d6d8d59de8fb3a15.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-0b555ccd11e6ab835e3b56907f59ef867034b858.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-00794b1e7a41c36b4a4a1e7376a4e935ba35dc4c.jar" />
+    </item>
+    <item
+        jar="F:\xheo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b9a909dfcd3c19eb56ee029014ebebd766c64a6e.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-3332d5c7a454f78c7458228d6cd2af6f56f3dc88.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-ef45ea3678350e8f3da43c5b948390c6063cd1e2.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c7db22e15345bb6788ede30a63c564e52d1fa0c3.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-945c7f885311db7456d97d55652b2f036620d2f1.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-9936ee8e3535792bc483421d8c7a18fc0df707c4.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-28bd709704fcc4753c89ffba33a4df8c7565063b.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\libs\tween-engine-api-sources.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\tween-engine-api-sources-30f3a6f13cab8fcb7242c0133722117061e2c394.jar" />
+    </item>
+    <item
+        jar="C:\Users\xheo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.4\7b974b501dc92361698a1f6251f9e7b308582c08\gdx-backend-android-1.5.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7b974b501dc92361698a1f6251f9e7b308582c08">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.4-cf743ea0d4b2fda011f2f0212ca83d9414718a1f.jar" />
+    </item>
+    <item
+        jar="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="F:\My Repositories\Farkesmatal9ach\android\build\intermediates\pre-dexed\debug\classes-140cec8f476671878dfe0126c35989b6155aa4e9.jar" />
     </item>
 
 </items>

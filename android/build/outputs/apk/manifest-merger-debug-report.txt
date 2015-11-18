@@ -15,7 +15,7 @@ ADDED from AndroidManifest.xml:2:1
 		INJECTED from AndroidManifest.xml:0:0
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
-MERGED from AC:BaseGameUtils:1.0:22:5
+MERGED from Farkesmatal9ach:BaseGameUtils:1.0:22:5
 MERGED from com.android.support:appcompat-v7:22.2.0:20:5
 MERGED from com.android.support:support-v4:22.2.0:20:5
 MERGED from com.android.support:support-v4:22.2.0:20:5
@@ -149,7 +149,7 @@ ADDED from AndroidManifest.xml:13:5
 		ADDED from AndroidManifest.xml:13:22
 application
 ADDED from AndroidManifest.xml:15:5
-MERGED from AC:BaseGameUtils:1.0:30:5
+MERGED from Farkesmatal9ach:BaseGameUtils:1.0:30:5
 MERGED from com.android.support:appcompat-v7:22.2.0:22:5
 MERGED from com.android.support:support-v4:22.2.0:22:5
 MERGED from com.android.support:support-v4:22.2.0:22:5
@@ -321,11 +321,11 @@ MERGED from com.google.android.gms:play-services-ads:7.8.0:26:9
 	android:name
 		ADDED from AndroidManifest.xml:41:13
 meta-data#unityplayer.ForwardNativeEventsToDalvik
-ADDED from AC:BaseGameUtils:1.0:26:5
+ADDED from Farkesmatal9ach:BaseGameUtils:1.0:26:5
 	android:name
-		ADDED from AC:BaseGameUtils:1.0:27:9
+		ADDED from Farkesmatal9ach:BaseGameUtils:1.0:27:9
 	android:value
-		ADDED from AC:BaseGameUtils:1.0:28:9
+		ADDED from Farkesmatal9ach:BaseGameUtils:1.0:28:9
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
 ADDED from com.google.android.gms:play-services-ads:7.8.0:30:9
 	android:theme

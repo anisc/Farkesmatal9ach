@@ -24,7 +24,7 @@ public class CurrentColorBanner extends GameObject {
         super(world, x, y, width, height, texture, color);
         cCIndicator = new ColorButton(world, x + (width / 2) - 50, y + 25, 100, 115,
                 AssetLoader.currentColorIndicator,
-                FlatColors.GREEN);
+                FlatColors.WHITE);
         effectY(world.gameHeight, y, 0.6f, 0.2f);
         cCIndicator.effectY(world.gameHeight + 25, y + 25, 0.6f, 0.2f);
     }
@@ -32,7 +32,8 @@ public class CurrentColorBanner extends GameObject {
     @Override
     public void render(SpriteBatch batch, ShapeRenderer shapeRenderer) {
         super.render(batch, shapeRenderer);
-        cCIndicator.renderNoButton(batch, shapeRenderer);
+        //cCIndicator.renderNoButton(batch, shapeRenderer);
+        cCIndicator.render(batch,shapeRenderer);
     }
 
     @Override

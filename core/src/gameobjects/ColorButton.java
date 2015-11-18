@@ -41,7 +41,7 @@ public class ColorButton extends GameObject {
     public ColorButton(final GameWorld world, float x, float y, float width, float height,
                        TextureRegion texture, Color color) {
 
-        super(world, x, y, width, height, texture, color);
+        super(world, x, y, width, height, texture);
         type = MathUtils.random(0, 4);
         setColorOfButtons();
         //setBgOfButtons();
@@ -200,19 +200,19 @@ dot = AssetLoader.dot;
     private void setColorOfButtons() {
         switch (type) {
             case 0:
-                color = world.parseColor(Configuration.COLOR_BUTTON_3, 1f);
+                color = world.parseColor(Configuration.COLOR_BUTTON_3, 0f);
                 break;
             case 1:
-                color = world.parseColor(Configuration.COLOR_BUTTON_1, 1f);
+                color = world.parseColor(Configuration.COLOR_BUTTON_1, 0f);
                 break;
             case 2:
-                color = world.parseColor(Configuration.COLOR_BUTTON_5, 1f);
+                color = world.parseColor(Configuration.COLOR_BUTTON_5, 0f);
                 break;
             case 3:
-                color = world.parseColor(Configuration.COLOR_BUTTON_2, 1f);
+                color = world.parseColor(Configuration.COLOR_BUTTON_2, 0f);
                 break;
             case 4:
-                color = world.parseColor(Configuration.COLOR_BUTTON_4, 1f);
+                color = world.parseColor(Configuration.COLOR_BUTTON_4, 0f);
                 break;
         }
         //setColor(color);

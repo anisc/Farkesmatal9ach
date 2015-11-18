@@ -33,7 +33,36 @@ public class GameObject {
     public boolean isPressed = false;
 
     private TweenManager manager;
+    public GameObject(GameWorld world, float x, float y, float width, float height,
+                      TextureRegion texture) {
+        this.world = world;
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        this.height = height;
+        this.texture = texture;
+        this.rectangle = new Rectangle(x, y, width, height);
 
+        position = new Vector2(x, y);
+        velocity = new Vector2();
+        acceleration = new Vector2();
+
+        sprite = new Sprite(texture);
+        sprite.setPosition(position.x, position.y);
+        sprite.setSize(width, height);
+
+
+        flashSprite = new Sprite(texture);
+        flashSprite.setPosition(position.x, position.y);
+        flashSprite.setSize(width, height);
+        flashSprite.setAlpha(0);
+
+        //TWEEN STUFF
+        Tween.registerAccessor(Sprite.class, new SpriteAccessor());
+        Tween.registerAccessor(Vector2.class, new VectorAccessor());
+        manager = new TweenManager();
+
+    }
     public GameObject(GameWorld world, float x, float y, float width, float height,
                       TextureRegion texture, Color color) {
         this.world = world;
